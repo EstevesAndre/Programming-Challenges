@@ -1,6 +1,6 @@
 ## Two Sum
-***
-###Given a 32-bit signed integer, reverse digits of an integer.
+
+### Given a 32-bit signed integer, reverse digits of an integer.
 
 | Example 1 | Example 2 | Example 3 |
 |:---------:|:---------:|:---------:|
