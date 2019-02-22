@@ -11,3 +11,9 @@
     Because nums[0] + nums[1] = 2 + 7 = 9,
     return [0, 1].
 </p>
+***
+
+### Runtime: 
+* 132 ms, faster than 37.22% of C++ online submissions for Two Sum.
+### Memory Usage:
+* 9.5 MB, less than 72.52% of C++ online submissions for Two Sum.
