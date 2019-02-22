@@ -4,7 +4,7 @@
 
 | Example 1   | Example 2    | Example 3  |
 |:-----------:|:------------:|:----------:|
-| Input: 123  | Input: -121  | Input: 10 |
+| Input: 121  | Input: -121  | Input: 10 |
 | Output: true | Output: false | Output: false |
 
 ***
