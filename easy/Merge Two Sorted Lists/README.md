@@ -5,8 +5,8 @@
 * Example:
 <p style="color:grey">
 
-    <b>Input:</b> 1->2->4, 1->3->4
-    <b>Output:</b> 1->1->2->3->4->4
+    Input: 1->2->4, 1->3->4
+    Output: 1->1->2->3->4->4
 </p>
 
 ***
